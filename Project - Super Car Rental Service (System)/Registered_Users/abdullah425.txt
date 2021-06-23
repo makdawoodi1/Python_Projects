@@ -1,0 +1,8 @@
+First Name: MUHAMMAD
+Last Name: ABDULLAH
+Mobile Number: 3123456789
+Username: abdullah425
+Email: abdullah425@gmail.com
+Password: abdullahgjal3
+Gender: MALE
+Date of Birth: 13-November-2000

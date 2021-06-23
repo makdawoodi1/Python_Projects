@@ -1,0 +1,8 @@
+First Name: MUHAMMAD
+Last Name: FAHMEED
+Mobile Number: 3123456789
+Username: fahmeed425
+Email: fahmmed425@gmail.com
+Password: fahmeedgja13
+Gender: MALE
+Date of Birth: 5-October-1998

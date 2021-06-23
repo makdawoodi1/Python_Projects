@@ -1,0 +1,8 @@
+First Name: Hammad
+Last Name: Alam
+Mobile Number: 3092892633
+Username: hammad423
+Email: hammad423@gmail.com
+Password: lkj1235qw23
+Gender: male
+Date of Birth: 5 October 1994
